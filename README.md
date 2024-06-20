@@ -30,7 +30,7 @@
 The 1st, 2nd, 3rd, and 4th rows present the scatter results on DSA, ML, LectureBank, and University Courses,respectively. Columns correspond to different methods. Red points indicate the negative sample, while blue points are the positive samples.
 
 > The following figure visualizes the 2D representations of the directed linksand their inverse links. For each positive sample [*v*<sub>*p*</sub> : *v*<sub>*q*</sub>], we plotted [*v*<sub>*p*</sub> : *v*<sub>*q*</sub>:*v*<sub>*p*</sub>—*v*<sub>*q*</sub>]and [*v*<sub>*q*</sub> : *v*<sub>*p*</sub>:*v*<sub>*q*</sub>—*v*<sub>*p*</sub>] to investigate whether the learned features can predict the direction correctly.
-![fig4](fig4.png)
+![fig4](images/fig4.png)
 ## Concept Prerequisite Relation Prediction
 > Table I lists all evaluation results of various methods on the four used datasets.From Table I , we can draw the conclusion that the GNN-based
 methods, including CPRL, ConLearn, and Ours, can result in
