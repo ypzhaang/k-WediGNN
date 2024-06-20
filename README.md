@@ -20,15 +20,15 @@
 > - Prerequisite Prediction (PREREQ).
 > - Concept Prerequisite Relation Learning (CPRL).
 > - Contextual-knowledge-aware approach (Conlearn).
-## Usage
->Multiscale *k*-WediGNN is run using a command of the following form:  
-> 
 > To investigate the improved discrimination, we canceled some components of multiscale k-WediGNNs as the references:
 > - GNN
 > - Multiscale GNN
 > - k-WediGNN
 > - k-WediGNN+Out-degree
 > - k-WediGNN+In-degree
+## Usage
+>Multiscale *k*-WediGNN is run using a command of the following form:  
+> 
 ##  Visualizations
 > Below is a diagram illustrates all scatter diagrams of combined representations of pairs of nodes [*v*<sub>*p*</sub> : *v*<sub>*q*</sub>] learned on the four datasets.
 ![Visualizations of sample representations.png](images/Visualizations_of_sample_representations.png)
