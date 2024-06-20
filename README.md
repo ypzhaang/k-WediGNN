@@ -12,7 +12,6 @@
 > - University Courses
 ## Dependencies
 >The code requires Python >= 3.9 and PyTorch >= 1.10.1.
-
 >More details of the environment dependencies required for code execution can be found in the `requirements.txt` file within the repository.
 ## Experiment
 > To showcase the superiority, we compared our methods with the traditional binary classification models developed in CPRP,including Support Vector Machine (SVM), Naive Bayes (NB),, and as well as the state-of-the-art approaches, including:
@@ -21,7 +20,9 @@
 > - Prerequisite Prediction (PREREQ).
 > - Concept Prerequisite Relation Learning (CPRL).
 > - Contextual-knowledge-aware approach (Conlearn).
-  
+## Usage
+>Multiscale *k*-WediGNN is run using a command of the following form:  
+> 
 > To investigate the improved discrimination, we canceled some components of multiscale k-WediGNNs as the references:
 > - GNN
 > - Multiscale GNN
