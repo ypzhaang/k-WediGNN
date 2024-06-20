@@ -19,7 +19,7 @@
 > - Reference Distance (RefD).
 > - Prerequisite Prediction (PREREQ).
 > - Concept Prerequisite Relation Learning (CPRL).
-> - Contextual-knowledge-aware approach (Conlearn).
+> - Contextual-knowledge-aware approach (Conlearn).  
 > To investigate the improved discrimination, we canceled some components of multiscale k-WediGNNs as the references:
 > - GNN
 > - Multiscale GNN
