@@ -10,6 +10,8 @@
 > - ML
 > - LectureBank
 > - University Courses
+## Dependencies
+>Details of the environment dependencies required for code execution can be found in the `requirements.txt` file within the repository.
 ## Experiment
 > To showcase the superiority, we compared our methods with the traditional binary classification models developed in CPRP,including Support Vector Machine (SVM), Naive Bayes (NB),, and as well as the state-of-the-art approaches, including:
 > - Graph Autoencoder (GAE) and Variational Graph Autoen-coder (VGAE).
