@@ -62,7 +62,8 @@ strategy can enhance directed link prediction, delivering state-of-the-art CPRP 
 ![fig5](images/fig5.png)  
 These aforementioned results substantiate the efficacy of our research.
 ##  Tips
-> <font color=red>The complete code will be uploaded to the repository in a subsequent update.</font>
+> <font color=red>The complete code will be uploaded to the repository in a subsequent update.</font>  
+> Copyright © 2024 YuPeiZhang. All rights reserved.
 
 
  
